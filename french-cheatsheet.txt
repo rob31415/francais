@@ -55,7 +55,7 @@ il/elle = er/sie
 es gibt kein "es"/neutrum. alles ist entweder f oder m.
 nous = wir
 vous = ihr
-ils/elles = sie; ils = gruppe von frauen; sobald 1 mann dabei ist, wird's männlich elles.
+ils/elles = sie; elles = z.b. gruppe von weibl. dingen (zb. frauen); sobald mind. 1 masculine dabei ist, wird's männlich: ils.
 
 je 			suis
 tu 			es
